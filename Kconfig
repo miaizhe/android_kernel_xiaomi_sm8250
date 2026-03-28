@@ -30,3 +30,4 @@ source "lib/Kconfig"
 source "lib/Kconfig.debug"
 
 source "techpack/Kconfig"
+source ''lunarkernel_sched_extention/Kconfig''
