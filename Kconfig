@@ -31,4 +31,4 @@ source "lib/Kconfig.debug"
 
 source "techpack/Kconfig"
 
-source ''sched_extention/Kconfig''
+source "sched_extention/Kconfig"
